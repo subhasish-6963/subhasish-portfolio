@@ -39,11 +39,11 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
-    {
-    id: "resume",
-    title: "Resume",
-    link: "https://drive.google.com/file/d/11gSdCazAJgHLW7-JfEJ_M2fB-MuOY0Fq/view?usp=sharing",
-  },
+  //   {
+  //   id: "resume",
+  //   title: "Resume",
+  //   link: "https://drive.google.com/file/d/11gSdCazAJgHLW7-JfEJ_M2fB-MuOY0Fq/view?usp=sharing",
+  // },
 ];
 
 const services = [
